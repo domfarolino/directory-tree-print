@@ -16,6 +16,7 @@ The directory-tree-print program automatically ignores and does not print the fo
 
  - `.`
  - `..`
+ - `.git`
  - `node_modules`
  - `bower_components`
 
