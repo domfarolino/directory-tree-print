@@ -9,7 +9,8 @@ Simple C++ program to print out the directory tree structure of a user-specified
 Because I was wanted to include a 'pretty' print out of the directory structure of a few web projects I was working on and didn't want to spend the time doing it by hand.
 
 ## How to use
-Simply type `./directory-tree-print <directoryNameHere>` to print the tree structure of that directory and all subdirectories.
+Run `make` to compile
+Type `./directory-tree-print <directoryNameHere>` to print the tree structure of that directory and all subdirectories.
 
 ## Ignores
 The directory-tree-print program automatically ignores and does not print the following folders:
